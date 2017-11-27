@@ -1,0 +1,10 @@
+C:\Users\ankit\MvcDemo\bin\Debug\netcoreapp2.0\MvcDemo.deps.json
+C:\Users\ankit\MvcDemo\bin\Debug\netcoreapp2.0\MvcDemo.runtimeconfig.json
+C:\Users\ankit\MvcDemo\bin\Debug\netcoreapp2.0\MvcDemo.runtimeconfig.dev.json
+C:\Users\ankit\MvcDemo\bin\Debug\netcoreapp2.0\MvcDemo.dll
+C:\Users\ankit\MvcDemo\bin\Debug\netcoreapp2.0\MvcDemo.pdb
+C:\Users\ankit\MvcDemo\obj\Debug\netcoreapp2.0\MvcDemo.csproj.CoreCompileInputs.cache
+C:\Users\ankit\MvcDemo\obj\Debug\netcoreapp2.0\MvcDemo.AssemblyInfoInputs.cache
+C:\Users\ankit\MvcDemo\obj\Debug\netcoreapp2.0\MvcDemo.AssemblyInfo.cs
+C:\Users\ankit\MvcDemo\obj\Debug\netcoreapp2.0\MvcDemo.dll
+C:\Users\ankit\MvcDemo\obj\Debug\netcoreapp2.0\MvcDemo.pdb
